@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8659c445-186a-49a8-acb8-78bad09081f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/Atomicity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/EventProcessors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/Future.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/Incremenator/Incremenator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/Incremenator/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/BasicThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/LiftOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/MoreBasicThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/executors/CachedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/executors/FixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/LiftOff/executors/SingleThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/PinPongVars/EggOrChicken/ChickenVoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/PinPongVars/EggOrChicken/EggVoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/ThreadGroupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/ThreadPriority/ThreadPriorityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/callable/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/multitreading/callable/TaskWithResult.java" afterDir="false" />
-    </list>
+    <list default="true" id="8659c445-186a-49a8-acb8-78bad09081f0" name="Changes" comment="Thread training" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661443655848</updated>
     </task>
+    <task id="LOCAL-00001" summary="Thread training">
+      <created>1662063266250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662063266250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Thread training" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread training" />
   </component>
 </project>
